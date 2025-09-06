@@ -1,0 +1,23 @@
+let goalstep = 10000
+print("Your step goal for the day is:")
+print(goalstep)
+var schooling = 4
+print(schooling)
+
+//:  Now imagine you just completed an additional year of school, and update the `schooling` variable accordingly. Print `schooling` to the console.
+schooling = schooling + 1
+print(schooling)
+var steps = 0
+print(0)
+
+//:  Now assume the tracker has been keeping track of steps all morning, and you want to show the user the latest step count. Update `steps` to be 2000. Print `steps` to the console. Then print "Good job! You're well on your way to your daily goal."
+steps = 2000
+print(steps)
+print("Good job! You're well on your way to your daily goal.")
+var name: String
+name = "Steven"
+print(name)
+
+var distanceTraveled: Double = 0
+distanceTraveled = 54.3
+print(distanceTraveled)
